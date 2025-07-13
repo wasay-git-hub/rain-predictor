@@ -46,8 +46,8 @@ An automated practical Python project that predicts rain for the next 12 hours u
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/rain-predictor-alert.git
-cd rain-predictor-alert
+git clone https://github.com/yourusername/rain-predictor.git
+cd rain-predictor
 ```
 
 ### 2. Set environment variables
@@ -65,5 +65,5 @@ RECIPIENT_PHONE_NUMBER=your_phone_number
 ### 3. Run the script
 
 ```bash
-python rain_predictor.py
+python main.py
 ```
